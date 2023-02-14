@@ -1,0 +1,5 @@
+/workspace/cssem2/reviewprojects/obj/Debug/net7.0/reviewprojects.csproj.AssemblyReference.cache
+/workspace/cssem2/reviewprojects/obj/Debug/net7.0/reviewprojects.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/cssem2/reviewprojects/obj/Debug/net7.0/reviewprojects.AssemblyInfoInputs.cache
+/workspace/cssem2/reviewprojects/obj/Debug/net7.0/reviewprojects.AssemblyInfo.cs
+/workspace/cssem2/reviewprojects/obj/Debug/net7.0/reviewprojects.csproj.CoreCompileInputs.cache

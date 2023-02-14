@@ -1,6 +1,12 @@
-class Program
+using System;
+
+namespace CsharpHelloWorld
 {
-    static void Main(string[] args){
-        Console.WriteLine("in the works");
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }

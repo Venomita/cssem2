@@ -2,7 +2,7 @@
 //Assignment: Review 1 Program 2
 //Date: February 10
 //Description: using tryparse you convert the string entered into an int to calculate the age of the oldest son who has the same age difference as the middle and youngest son.
-class Program
+class Program1
 {
     static void Main(string[] args)
     {
