@@ -1,0 +1,5 @@
+/workspace/cssem2/obj/Debug/net7.0/dotnetcore.csproj.AssemblyReference.cache
+/workspace/cssem2/obj/Debug/net7.0/dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/cssem2/obj/Debug/net7.0/dotnetcore.AssemblyInfoInputs.cache
+/workspace/cssem2/obj/Debug/net7.0/dotnetcore.AssemblyInfo.cs
+/workspace/cssem2/obj/Debug/net7.0/dotnetcore.csproj.CoreCompileInputs.cache
