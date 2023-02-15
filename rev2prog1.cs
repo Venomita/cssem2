@@ -3,7 +3,7 @@
 //Date: February 13
 //Description: you enter an input of the votes. the program will go through the string and read each letter and add it to an int to find out which variable has a higher value, which means more votes. 
 using System;
-class Program2
+class Program1
 {
     static void Main(string[] args)
     {

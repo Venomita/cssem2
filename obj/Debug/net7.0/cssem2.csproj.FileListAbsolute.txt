@@ -1,0 +1,15 @@
+/workspace/cssem2/bin/Debug/net7.0/cssem2
+/workspace/cssem2/bin/Debug/net7.0/cssem2.deps.json
+/workspace/cssem2/bin/Debug/net7.0/cssem2.runtimeconfig.json
+/workspace/cssem2/bin/Debug/net7.0/cssem2.dll
+/workspace/cssem2/bin/Debug/net7.0/cssem2.pdb
+/workspace/cssem2/obj/Debug/net7.0/cssem2.csproj.AssemblyReference.cache
+/workspace/cssem2/obj/Debug/net7.0/cssem2.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/cssem2/obj/Debug/net7.0/cssem2.AssemblyInfoInputs.cache
+/workspace/cssem2/obj/Debug/net7.0/cssem2.AssemblyInfo.cs
+/workspace/cssem2/obj/Debug/net7.0/cssem2.csproj.CoreCompileInputs.cache
+/workspace/cssem2/obj/Debug/net7.0/cssem2.dll
+/workspace/cssem2/obj/Debug/net7.0/refint/cssem2.dll
+/workspace/cssem2/obj/Debug/net7.0/cssem2.pdb
+/workspace/cssem2/obj/Debug/net7.0/cssem2.genruntimeconfig.cache
+/workspace/cssem2/obj/Debug/net7.0/ref/cssem2.dll

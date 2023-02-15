@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/cssem2/dotnetcore.csproj",
-      "projectName": "dotnetcore",
-      "projectPath": "/workspace/cssem2/dotnetcore.csproj",
+      "projectUniqueName": "/workspace/cssem2/cssem2.csproj",
+      "projectName": "cssem2",
+      "projectPath": "/workspace/cssem2/cssem2.csproj",
       "packagesPath": "/home/gitpod/.nuget/packages/",
       "outputPath": "/workspace/cssem2/obj/",
       "projectStyle": "PackageReference",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspace/cssem2/reviewprojects/reviewprojects.csproj": {}
+    "/workspace/cssem2/cssem2.csproj": {}
   },
   "projects": {
-    "/workspace/cssem2/reviewprojects/reviewprojects.csproj": {
+    "/workspace/cssem2/cssem2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspace/cssem2/reviewprojects/reviewprojects.csproj",
-        "projectName": "reviewprojects",
-        "projectPath": "/workspace/cssem2/reviewprojects/reviewprojects.csproj",
+        "projectUniqueName": "/workspace/cssem2/cssem2.csproj",
+        "projectName": "cssem2",
+        "projectPath": "/workspace/cssem2/cssem2.csproj",
         "packagesPath": "/home/gitpod/.nuget/packages/",
-        "outputPath": "/workspace/cssem2/reviewprojects/obj/",
+        "outputPath": "/workspace/cssem2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gitpod/.nuget/NuGet/NuGet.Config"
