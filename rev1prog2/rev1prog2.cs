@@ -5,24 +5,26 @@
 
 using System;
 
-class Program
+class Program1
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Welcome to Hamza's Apple store!" +
-        "Here, we sell Apples for $2.50 each. ");
+        "Here, we sell Apples for $2 each. ");
         Console.Write("How many Apples would you like to purchase?");
-        int quantity = Console.ReadLine();
+        int quantity = Convert.ToInt32(Console.ReadLine());
         //quanitity being multiplied by the price
-        int subtotal = quantity * 2.5;
+        int price = 2;
+        int subtotal = quantity * price;
         Console.WriteLine("Your total cost for your apple(s) before taxes are $" + subtotal);
         //final cost is multiplied by the tax because it is 13%
-        int finalcost = subtotal * 1.13;
+        int tax = Convert.ToInt32(1.13);
+        int finalcost = subtotal * tax;
         //difference of final total and subtotal is the tax
-        int onlytax = finaltotal - subtotal;
+        int onlytax = finalcost - subtotal;
         //print the tax
         Console.WriteLine("Tax: " + onlytax);
         Console.WriteLine("Your final total including tax is: " + finalcost);
-        Console.Readkey();
+        Console.ReadKey();
     }
 }
